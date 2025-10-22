@@ -1,0 +1,34 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.card {
+    background-color: rgb(255, 255, 255);
+    border: solid thin rgb(172, 171, 171);
+    border-radius: 25px;
+    padding: 10px 0px;
+    margin: 10px auto;
+    width: 400px;
+    box-shadow: -5px 5px 5px rgba(0, 0, 0, 0.555);
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.home-heading {
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.recipe-list {
+    text-align: center;  
+}
+
+.recipe-select {
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    margin: 2.5px;
+}
