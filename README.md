@@ -10,4 +10,5 @@ Completion of this project will demonstrate basic HTML skills and knowledge of:
 *Lists
 *Images and links
 
-Later on in the course I will return to this project to add style using CSS. 
+-22/10/2025-
+Basic styling as practice for CSS lessons.
